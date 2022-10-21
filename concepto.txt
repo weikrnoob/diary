@@ -1,0 +1,10 @@
+¿Que es este proyecto?
+La idea de este proyecto es hacer una pagina que sea un diario,
+donde puedas crear una cuenta, tener un input donde puedas escribir
+lo que paso hoy, y despues tener acceso a los diarios de los dias 
+anteriores. tambien que puedas escribir tus metas, tus opiniones, 
+tus pensamientos y tengas ventanas para poder verlos.
+ Para este proyecto necesitas:
+-Crear un software
+-SQL
+-La pagina
